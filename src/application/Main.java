@@ -1,3 +1,5 @@
+//2.0 version for git tests
+
 package application;
 
 import java.util.Scanner;
